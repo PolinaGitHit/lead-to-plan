@@ -1,0 +1,104 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment secrets (keep example template)
+.env
+.env.*
+!.env.example
+
+# Playwright persistent browser profiles (local session/auth state)
+**/.playwright-chrome-profile/
+**/.playwright-*/
+
+# Node.js (future web/ tooling)
+node_modules/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE (pipeline config stays local)
+.idea/
+.vscode/
+.cursor/
+
+# =============================================================================
+# Portfolio publish — selective allowlist (negation patterns)
+# Parent dirs must be un-ignored before children. See gitignore(5).
+# =============================================================================
+
+# Root: ignore all top-level entries except allowlisted
+/*
+!/.gitignore
+!/README.md
+!/index.md
+!/requirements.txt
+!/docs/
+!/task/
+!/tests/
+!/agent_work/
+
+# Explicit root exclusions (not in portfolio scope)
+AGENT_CHANGELOG.md
+backend/
+web/
+check/
+
+# agent_work: ignore siblings, then un-ignore allowlisted branches
+agent_work/*
+!agent_work/done/
+!agent_work/tasks/
+agent_work/.task-registry.json
+agent_work/inbox/
+
+# done/: only two task folders
+agent_work/done/*
+!agent_work/done/001-direct-test-part2-efficiency/
+!agent_work/done/002-ecco-kids-direct-mediaplan/
+
+# 001-direct-test-part2-efficiency — developer/, snapshots/, record, one prompt, one recenziya
+agent_work/done/001-direct-test-part2-efficiency/*
+!agent_work/done/001-direct-test-part2-efficiency/developer/
+!agent_work/done/001-direct-test-part2-efficiency/developer/**
+!agent_work/done/001-direct-test-part2-efficiency/snapshots/
+!agent_work/done/001-direct-test-part2-efficiency/snapshots/**
+!agent_work/done/001-direct-test-part2-efficiency/direct-test-part2-efficiency_record.md
+!agent_work/done/001-direct-test-part2-efficiency/plan/
+agent_work/done/001-direct-test-part2-efficiency/plan/*
+!agent_work/done/001-direct-test-part2-efficiency/plan/direct-test-part2-efficiency_prompt.md
+!agent_work/done/001-direct-test-part2-efficiency/recenziya/
+agent_work/done/001-direct-test-part2-efficiency/recenziya/*
+!agent_work/done/001-direct-test-part2-efficiency/recenziya/tz-recenziya-examiner-sheet-paste-composer-2.5-20260818-160525.md
+
+# 002-ecco-kids-direct-mediaplan — developer/, snapshots/, record, one prompt, one recenziya
+agent_work/done/002-ecco-kids-direct-mediaplan/*
+!agent_work/done/002-ecco-kids-direct-mediaplan/developer/
+!agent_work/done/002-ecco-kids-direct-mediaplan/developer/**
+!agent_work/done/002-ecco-kids-direct-mediaplan/snapshots/
+!agent_work/done/002-ecco-kids-direct-mediaplan/snapshots/**
+!agent_work/done/002-ecco-kids-direct-mediaplan/ecco-kids-direct-mediaplan_record.md
+!agent_work/done/002-ecco-kids-direct-mediaplan/plan/
+agent_work/done/002-ecco-kids-direct-mediaplan/plan/*
+!agent_work/done/002-ecco-kids-direct-mediaplan/plan/ecco-kids-direct-mediaplan_prompt.md
+!agent_work/done/002-ecco-kids-direct-mediaplan/recenziya/
+agent_work/done/002-ecco-kids-direct-mediaplan/recenziya/*
+!agent_work/done/002-ecco-kids-direct-mediaplan/recenziya/tz-recenziya-ecco-kids-direct-mediaplan-gpt-5.6-sol-medium-20260820-021154.md
+
+# tasks/: only manual-checks.md in one folder
+agent_work/tasks/*
+!agent_work/tasks/20260820-0224-ecco-search-benches/
+agent_work/tasks/20260820-0224-ecco-search-benches/*
+!agent_work/tasks/20260820-0224-ecco-search-benches/manual-checks.md
