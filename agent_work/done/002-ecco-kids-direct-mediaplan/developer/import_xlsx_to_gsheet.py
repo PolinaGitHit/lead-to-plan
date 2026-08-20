@@ -11,7 +11,7 @@ from playwright.sync_api import BrowserContext, Page, Playwright, sync_playwrigh
 
 DEFAULT_URL = (
     "https://docs.google.com/spreadsheets/d/"
-    "1A31rkQ9JkJ3Bet8coGxcXw22bwFhqq4Xk7_GQxtdc8c/edit"
+    "1avkiFSoxmjjAMnEqFOZ1CMU7gRuVcHpLFhmjhtzD1Ys/edit?gid=92372183#gid=92372183"
 )
 XLSX = Path(__file__).with_name("ecco-kids-direct-mediaplan-formulas.xlsx")
 SHOT = Path(__file__).parent

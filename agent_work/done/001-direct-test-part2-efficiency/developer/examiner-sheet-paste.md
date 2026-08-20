@@ -1,6 +1,6 @@
 # Вставка в Google Таблицу проверяющего (часть 2)
 
-**Таблица:** https://docs.google.com/spreadsheets/d/1iZnMulCuyP5-Xo4aeJPjgoArYnPlkGjvdJFw8yIFhKI/edit?usp=sharing
+**Таблица:** https://docs.google.com/spreadsheets/d/1iZnMulCuyP5-Xo4aeJPjgoArYnPlkGjvdJFw8yIFhKI/edit?gid=0#gid=0
 
 **Статус:** тексты ниже синхронизированы с заполненными ячейками таблицы проверяющего (обновление оператором). При расхождении — ориентир: Google Sheet.
 

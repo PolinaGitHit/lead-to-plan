@@ -53,6 +53,7 @@ desktop.ini
 
 # Explicit root exclusions (not in portfolio scope)
 AGENT_CHANGELOG.md
+answer/
 backend/
 web/
 check/

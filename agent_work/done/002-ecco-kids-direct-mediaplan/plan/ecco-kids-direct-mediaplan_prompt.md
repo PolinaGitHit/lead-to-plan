@@ -32,7 +32,7 @@
 3. **Gate перед сеткой:** файл канонов медиапланирования готов до заполнения «Медиаплан год» и сводок — роль Head of PPC vs Senior, полный словарь кабинета: тип кампании, места показа Поиск/РСЯ, условие показа, стратегия, ставка, цена конверсии, недельный бюджет, CTR, CPC, CR, CPA, ДРР, расход, покупки, выручка (компактный чеклист, без эссе из брифа).
 4. Построить лист «Медиаплан год»: месяц × кампания (и стратегия); столбцы: бюджет, показы, CTR, клики, CPC, расход, CR покупка, покупки, AOV, выручка, CPA, ДРР. Внутри месяца — разбивка по типам и стратегиям. Если месяц ≠ 1 млн — почему; сумма за год сходится.
 5. Листы «Сводка месяц» и «Сводка год»: итоги; общий ДРР / покупки / выручка. Сумма бюджетов кампаний = бюджет месяца; год = сумма месяцев.
-6. Заполнить [Google Таблицу результата](https://docs.google.com/spreadsheets/d/1A31rkQ9JkJ3Bet8coGxcXw22bwFhqq4Xk7_GQxtdc8c/edit?gid=0#gid=0) и положить копию в `{task_work_root}` (не `backend/`, не `web/`).
+6. Заполнить [Google Таблицу результата](https://docs.google.com/spreadsheets/d/1avkiFSoxmjjAMnEqFOZ1CMU7gRuVcHpLFhmjhtzD1Ys/edit?gid=92372183#gid=92372183) и положить копию в `{task_work_root}` (не `backend/`, не `web/`).
 7. Написать отдельный файл канонов медиаплана (не считать канон task2 достаточным) — до шага 4 (gate, см. п. 3).
 
 ## Вне scope
@@ -48,7 +48,7 @@
 
 - Бриф: [`task3.md`](../../../../task3.md)
 - Главный документ задания: [Google Doc](https://docs.google.com/document/d/1GUNXwGYl72GOBB9t5hKlBvcD70D8854MhfhNs9_6Ofw/edit?tab=t.0)
-- Итоговая таблица: [Google Sheets](https://docs.google.com/spreadsheets/d/1A31rkQ9JkJ3Bet8coGxcXw22bwFhqq4Xk7_GQxtdc8c/edit?gid=0#gid=0)
+- Итоговая таблица: [Google Sheets](https://docs.google.com/spreadsheets/d/1avkiFSoxmjjAMnEqFOZ1CMU7gRuVcHpLFhmjhtzD1Ys/edit?gid=92372183#gid=92372183)
 - Справка: [глоссарий Директа](https://yandex.ru/support/direct/ru/glossary), [выбор стратегии](https://yandex.ru/support/direct/ru/strategies/select-strategy)
 - Артефакты задачи: `{task_work_root}` после kickoff (таблица-копия, канон, обоснования)
 - Google Drive MCP: на момент kickoff сервер может требовать авторизацию; без неё — полная локальная копия, заполнение облачной таблицы — отдельный шаг после auth

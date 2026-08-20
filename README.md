@@ -7,8 +7,8 @@
 | Часть | Тема | Итоговый deliverable | Артефакты в репозитории |
 |-------|------|----------------------|-------------------------|
 | **1** | Кейс B2B (котельные, дымовые трубы) | [Отчёт в Google Doc](https://docs.google.com/document/d/15305Tsn8MqypVOmnAHCASRaxYbydpezJVsMm4jCJf8U/edit?tab=t.0) | [`task/task1.md`](task/task1.md) — текст кейса |
-| **2** | Эффективность рекламных кампаний (e-com) | [Google Таблица части 2](https://docs.google.com/spreadsheets/d/1H0179SIX8_3z46P9edR7zxJvy057jZl1Eu6NEBoqZv0/edit?usp=sharing) | [`agent_work/done/001-direct-test-part2-efficiency/`](agent_work/done/001-direct-test-part2-efficiency/) — расчёты, paste, письмо |
-| **3** | Медиаплан ECCO Kids на 12 месяцев | [Google Таблица части 3](https://docs.google.com/spreadsheets/d/1A31rkQ9JkJ3Bet8coGxcXw22bwFhqq4Xk7_GQxtdc8c/edit?gid=0#gid=0) | [`agent_work/done/002-ecco-kids-direct-mediaplan/`](agent_work/done/002-ecco-kids-direct-mediaplan/) — канон, снимки листов |
+| **2** | Эффективность рекламных кампаний (e-com) | [Google Таблица части 2](https://docs.google.com/spreadsheets/d/1iZnMulCuyP5-Xo4aeJPjgoArYnPlkGjvdJFw8yIFhKI/edit?gid=0#gid=0) | [`agent_work/done/001-direct-test-part2-efficiency/`](agent_work/done/001-direct-test-part2-efficiency/) — расчёты, paste, письмо |
+| **3** | Медиаплан ECCO Kids на 12 месяцев | [Google Таблица части 3](https://docs.google.com/spreadsheets/d/1avkiFSoxmjjAMnEqFOZ1CMU7gRuVcHpLFhmjhtzD1Ys/edit?gid=92372183#gid=92372183) | [`agent_work/done/002-ecco-kids-direct-mediaplan/`](agent_work/done/002-ecco-kids-direct-mediaplan/) — канон, снимки листов |
 
 Общий документ с формулировками частей 2–3: [Google Doc](https://docs.google.com/document/d/1GUNXwGYl72GOBB9t5hKlBvcD70D8854MhfhNs9_6Ofw/edit?tab=t.0).
 

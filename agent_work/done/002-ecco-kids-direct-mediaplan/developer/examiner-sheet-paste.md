@@ -1,10 +1,10 @@
 # Вставка в Google Таблицу — ECCO Kids Direct mediaplan (часть 3)
 
-**Таблица:** https://docs.google.com/spreadsheets/d/1A31rkQ9JkJ3Bet8coGxcXw22bwFhqq4Xk7_GQxtdc8c/edit
+**Таблица:** https://docs.google.com/spreadsheets/d/1avkiFSoxmjjAMnEqFOZ1CMU7gRuVcHpLFhmjhtzD1Ys/edit?gid=92372183#gid=92372183
 
-**Слой A (облако):** **не заполнен автоматически** — Google Drive MCP `plugin-google-drive-google-drive` авторизован (`ready`), но плагин поддерживает только операции Drive (файлы/метаданные), **без** записи ячеек / Sheets API в таблицу экзамена `1A31rkQ9JkJ3Bet8coGxcXw22bwFhqq4Xk7_GQxtdc8c`.
+**Слой A (облако):** **не заполнен автоматически** — Google Drive MCP `plugin-google-drive-google-drive` авторизован (`ready`), но плагин поддерживает только операции Drive (файлы/метаданные), **без** записи ячеек / Sheets API в таблицу экзамена `1avkiFSoxmjjAMnEqFOZ1CMU7gRuVcHpLFhmjhtzD1Ys`.
 
-**Источник импорта (xlsx):** [`developer/ecco-kids-direct-mediaplan.xlsx`](ecco-kids-direct-mediaplan.xlsx) — пять вкладок (Допущения, Инструменты, Медиаплан год, Сводка месяц, Сводка год), данные из `snapshots/sheet-*.md`. Root загружает xlsx как **новую** таблицу в Drive; оператор импортирует в экзаменационную таблицу: Google Sheets → **Файл → Импорт** → загрузить xlsx → **Заменить таблицу** или **Вставить новые листы** (скопировать вкладки в workbook `1A31rkQ9JkJ3Bet8coGxcXw22bwFhqq4Xk7_GQxtdc8c`).
+**Источник импорта (xlsx):** [`developer/ecco-kids-direct-mediaplan.xlsx`](ecco-kids-direct-mediaplan.xlsx) — пять вкладок (Допущения, Инструменты, Медиаплан год, Сводка месяц, Сводка год), данные из `snapshots/sheet-*.md`. Root загружает xlsx как **новую** таблицу в Drive; оператор импортирует в экзаменационную таблицу: Google Sheets → **Файл → Импорт** → загрузить xlsx → **Заменить таблицу** или **Вставить новые листы** (скопировать вкладки в workbook `1avkiFSoxmjjAMnEqFOZ1CMU7gRuVcHpLFhmjhtzD1Ys`).
 
 **Слой B (репо):** этот файл + `snapshots/sheet-*.md` + `developer/mediaplan-canons.md` — SSOT цифр в git; при расхождении с облаком после paste ориентир — snapshots.
 
@@ -250,14 +250,14 @@ CPA (средний)	641 ₽
 
 **Вариант A — импорт xlsx (рекомендуется):**
 
-1. Открыть [экзаменационную таблицу](https://docs.google.com/spreadsheets/d/1A31rkQ9JkJ3Bet8coGxcXw22bwFhqq4Xk7_GQxtdc8c/edit) или дождаться загрузки xlsx root в Drive.
+1. Открыть [экзаменационную таблицу](https://docs.google.com/spreadsheets/d/1avkiFSoxmjjAMnEqFOZ1CMU7gRuVcHpLFhmjhtzD1Ys/edit?gid=92372183#gid=92372183) или дождаться загрузки xlsx root в Drive.
 2. **Файл → Импорт → Загрузка** → выбрать [`ecco-kids-direct-mediaplan.xlsx`](ecco-kids-direct-mediaplan.xlsx).
 3. Режим: **Заменить таблицу** (если пустая) или **Вставить новые листы** → переименовать/удалить лишние вкладки.
 4. Проверить сходимость: год = 12 000 000 ₽ бюджета; сводный ДРР = 15,1 %.
 
 **Вариант B — ручная вставка TSV:**
 
-1. Открыть [таблицу](https://docs.google.com/spreadsheets/d/1A31rkQ9JkJ3Bet8coGxcXw22bwFhqq4Xk7_GQxtdc8c/edit) вручную.
+1. Открыть [таблицу](https://docs.google.com/spreadsheets/d/1avkiFSoxmjjAMnEqFOZ1CMU7gRuVcHpLFhmjhtzD1Ys/edit?gid=92372183#gid=92372183) вручную.
 2. Создать вкладки: **Допущения**, **Инструменты**, **Медиаплан год**, **Сводка месяц**, **Сводка год**.
 3. Вставить блоки сверху вниз в A1 каждой вкладки.
 4. Проверить сходимость: год = 12 000 000 ₽ бюджета; сводный ДРР = 15,1 %.

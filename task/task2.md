@@ -20,7 +20,7 @@
 
 Мои пожелания: Подобрать подходлящий стиль для каждого из подпункта задачи. Выполнять максимально просто, строго и лаконично. Стараться объяснять профессиональной лексикой, но простым языком. Приводи кратко реальные цифры, что ты посчитал, обосновывай фактами из статистики. Сформировать образ профессиональной личности, которая работает над задачей, правила, каноны и стандарты в отдельный файл. В таблице проверяющему и письме менеджеру писать языком кабинета Директа: условие показа, сети, Мастер ставок, ставка, CPA. Не использовать внутренние ярлыки анализа. 
 
-Итоговый файл для выполнения 2 части тестового задания предоставь в Google Таблице [https://docs.google.com/spreadsheets/d/1H0179SIX8_3z46P9edR7zxJvy057jZl1Eu6NEBoqZv0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1H0179SIX8_3z46P9edR7zxJvy057jZl1Eu6NEBoqZv0/edit?usp=sharing)
+Итоговый файл для выполнения 2 части тестового задания предоставь в Google Таблице [https://docs.google.com/spreadsheets/d/1iZnMulCuyP5-Xo4aeJPjgoArYnPlkGjvdJFw8yIFhKI/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1iZnMulCuyP5-Xo4aeJPjgoArYnPlkGjvdJFw8yIFhKI/edit?gid=0#gid=0)
 
 Гланвый файл с заданием:
 [https://docs.google.com/document/d/1GUNXwGYl72GOBB9t5hKlBvcD70D8854MhfhNs9_6Ofw/edit?tab=t.0](https://docs.google.com/document/d/1GUNXwGYl72GOBB9t5hKlBvcD70D8854MhfhNs9_6Ofw/edit?tab=t.0)

@@ -42,8 +42,8 @@ version_bumped: v0.0.5-dev
 | Часть | Deliverable | Git-артефакты |
 |-------|-------------|---------------|
 | Кейс B2B | [Google Doc](https://docs.google.com/document/d/15305Tsn8MqypVOmnAHCASRaxYbydpezJVsMm4jCJf8U/edit?tab=t.0) | `task/task1.md` |
-| 2 Эффективность | [Google Sheet](https://docs.google.com/spreadsheets/d/1H0179SIX8_3z46P9edR7zxJvy057jZl1Eu6NEBoqZv0/edit?usp=sharing) | `agent_work/done/001-direct-test-part2-efficiency/` |
-| 3 Медиаплан ECCO | [Google Sheet](https://docs.google.com/spreadsheets/d/1A31rkQ9JkJ3Bet8coGxcXw22bwFhqq4Xk7_GQxtdc8c/edit?gid=0#gid=0) | `agent_work/done/002-ecco-kids-direct-mediaplan/` |
+| 2 Эффективность | [Google Sheet](https://docs.google.com/spreadsheets/d/1iZnMulCuyP5-Xo4aeJPjgoArYnPlkGjvdJFw8yIFhKI/edit?gid=0#gid=0) | `agent_work/done/001-direct-test-part2-efficiency/` |
+| 3 Медиаплан ECCO | [Google Sheet](https://docs.google.com/spreadsheets/d/1avkiFSoxmjjAMnEqFOZ1CMU7gRuVcHpLFhmjhtzD1Ys/edit?gid=92372183#gid=92372183) | `agent_work/done/002-ecco-kids-direct-mediaplan/` |
 
 ## Важные оговорки
 

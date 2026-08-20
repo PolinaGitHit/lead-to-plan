@@ -17,7 +17,7 @@ version_bumped: v0.0.4-dev
 
 | Формат | Ссылка |
 |--------|--------|
-| Google Таблица (ответ проверяющему) | [Sheet части 2](https://docs.google.com/spreadsheets/d/1H0179SIX8_3z46P9edR7zxJvy057jZl1Eu6NEBoqZv0/edit?usp=sharing) |
+| Google Таблица (ответ проверяющему) | [Sheet части 2](https://docs.google.com/spreadsheets/d/1iZnMulCuyP5-Xo4aeJPjgoArYnPlkGjvdJFw8yIFhKI/edit?gid=0#gid=0) |
 | Общий документ задания (ч. 2–3) | [Google Doc](https://docs.google.com/document/d/1GUNXwGYl72GOBB9t5hKlBvcD70D8854MhfhNs9_6Ofw/edit?tab=t.0) |
 
 ## Исходная формулировка
